@@ -26,9 +26,11 @@ d) N-gram analysis
 
 3. Prepare Data
 
-a) Data preprocessing
+a) Data cleaning
 
-b) Split data into train and test sets
+b) Data preprocessing
+
+c) Split data into train and test sets
 
 4. Topic Classification and Modeling
 
